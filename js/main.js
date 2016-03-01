@@ -6,9 +6,9 @@ var insects = [
     family: 'Carabidae',
     size: [6, 20],
     food: {
-    eatsInsects: true,
-    eatsDung: false,
-    eatsPlants: false
+      eatsInsects: true,
+      eatsDung: false,
+      eatsPlants: false
   }
   },
   {
@@ -17,9 +17,9 @@ var insects = [
     family: 'Scarabidae',
     size: [20, 30],
     food: {
-    eatsInsects: false,
-    eatsDung: true,
-    eatsPlants: false
+      eatsInsects: false,
+      eatsDung: true,
+      eatsPlants: false
   }
   },
   {
@@ -28,9 +28,9 @@ var insects = [
     family: 'Lucanidae',
     size: [5, 120],
     food: {
-    eatsInsects: false,
-    eatsDung: false,
-    eatsPlants: true
+      eatsInsects: false,
+      eatsDung: false,
+      eatsPlants: true
   }
   },
   {
@@ -39,9 +39,9 @@ var insects = [
     family: 'Cassidinae',
     size: [1, 18],
     food: {
-    eatsInsects: false,
-    eatsDung: false,
-    eatsPlants: true
+      eatsInsects: false,
+      eatsDung: false,
+      eatsPlants: true
   }
   }
 ];
