@@ -9,7 +9,7 @@ var insects = [
       eatsInsects: true,
       eatsDung: false,
       eatsPlants: false
-  }
+    }
   },
   {
     name: 'Dung Beetle',
@@ -20,7 +20,7 @@ var insects = [
       eatsInsects: false,
       eatsDung: true,
       eatsPlants: false
-  }
+    }
   },
   {
     name: 'Stag Beetle',
@@ -31,7 +31,7 @@ var insects = [
       eatsInsects: false,
       eatsDung: false,
       eatsPlants: true
-  }
+    }
   },
   {
     name: 'Tortoise Beetle',
@@ -42,7 +42,7 @@ var insects = [
       eatsInsects: false,
       eatsDung: false,
       eatsPlants: true
-  }
+    }
   }
 ];
 
